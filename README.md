@@ -1,4 +1,4 @@
-### Oii! Eu sou a stef4ny
+###  olá! Eu sou a stef4ny
 
 - 🌱 Estudando IPI
 - 😄 Pronomes: ela/dela 
