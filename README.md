@@ -3,8 +3,7 @@
 - IPI
   <div align="center">
   <a href="https://github.com/Dev-Paulo-Henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stef4ny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0e6&title_color=0e6&icon_color=0e6"/></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stef4ny&layout=compact&langs_count=10&theme=midnight-purple&border_color=0e6&title_color=#BFEFFF&icon_color=0e6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stef4ny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0e6&title_color=0e6&icon_color=0e6"/>
 </div>
 
 
