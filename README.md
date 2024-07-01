@@ -1,6 +1,7 @@
-# Olá! sou Stefany Rodrigues, sempre estou aprendendo e evoluindo na área de T.I.👩‍💻
+# Olá! sou Stefany Rodrigues. Sempre procurando aprender e evoluir na área de T.I.👩‍💻
 
  -- No momento estou muito focada em backend, mas com um amor pelo frontend.
+ -- 
  
 
   <div>
