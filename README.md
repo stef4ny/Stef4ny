@@ -15,7 +15,6 @@
       <img align="center" alt="Ste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Ste-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="Ste-Java" height="32" width="40" src="https://github.com/stef4ny/Stefanyprofile/assets/132313469/6e47ad4d-7a97-40c2-9dec-9729c2d2799d">
       <img align="center" alt="nodejs" height="32" width="40" src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png">
       <img align="center" alt="nodejs" height="32" width="40" src="https://th.bing.com/th/id/R.ce7513e8e3107e486b1c879831149f0d?rik=FplsF7QuKKXGig&pid=ImgRaw&r=0">
