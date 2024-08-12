@@ -18,7 +18,7 @@
       <img align="center" alt="Ste-Java" height="32" width="40" src="https://github.com/stef4ny/Stefanyprofile/assets/132313469/6e47ad4d-7a97-40c2-9dec-9729c2d2799d">
       <img align="center" alt="nodejs" height="32" width="40" src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png">
       <img align="center" alt="nodejs" height="32" width="40" src="https://th.bing.com/th/id/R.ce7513e8e3107e486b1c879831149f0d?rik=FplsF7QuKKXGig&pid=ImgRaw&r=0">
-    <h6>Mas no momento estou usando Java para projetos backend como treinamento pessoal.</h6>
+    <h6>Mas no momento estou usando Java e Nodejs para projetos backend como treinamento pessoal.</h6>
   </div>
 
   ##
