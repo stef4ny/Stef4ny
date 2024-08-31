@@ -28,5 +28,11 @@
       <a href="https://www.linkedin.com/in/stefany-rodrigues-90301b2b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href ="https://judge.beecrowd.com/pt/profile/843065"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank"></a>
   </div>
-
+<div>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Paulo-Henrique/Dev-Paulo-Henrique/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Paulo-Henrique/Dev-Paulo-Henrique/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Paulo-Henrique/Dev-Paulo-Henrique/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
   
