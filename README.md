@@ -10,29 +10,23 @@
 </div>
 
   ##
-  <h5>👩‍💻Tenho conhecimento em:</h5>
-  <div>
-      <img align="center" alt="Ste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Ste-Java" height="32" width="40" src="https://github.com/stef4ny/Stefanyprofile/assets/132313469/6e47ad4d-7a97-40c2-9dec-9729c2d2799d">
-      <img align="center" alt="nodejs" height="32" width="40" src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png">
-      <img align="center" alt="nodejs" height="32" width="40" src="https://th.bing.com/th/id/R.ce7513e8e3107e486b1c879831149f0d?rik=FplsF7QuKKXGig&pid=ImgRaw&r=0">
-    <h6>Mas no momento estou usando Java e Nodejs para projetos backend como treinamento pessoal.</h6>
-  </div>
+
+<p>👩‍💻 Tenho conhecimento em:</p>
+
+<p>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,nodejs" alt="My Skills">
+  </a>
+</p>
+
+<p>Atualmente, estou usando Java e Node.js para projetos de backend como parte do meu crescimento pessoal.</p>
 
   ##
   <h5>Contatos:⤵️</h5>
   <div>
       <a href="https://instagram.com/sttefany0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/stefany-rodrigues-90301b2b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href ="https://judge.beecrowd.com/pt/profile/843065"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank"></a>
+  
   </div>
-<div>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Paulo-Henrique/Dev-Paulo-Henrique/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Paulo-Henrique/Dev-Paulo-Henrique/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Paulo-Henrique/Dev-Paulo-Henrique/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-</div>
+
   
