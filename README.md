@@ -1,17 +1,11 @@
-<h1>Olá! sou Stefany Rodrigues.</h1>
+<h1>Olá! sou Stefany Rodrigues</h1>
 
-<h5>Uma grande admiradora da tecnologia, apaixonada por aprender novas tecnologias e quem sabe um dia se tornar uma dev backend, estou focada em construir uma carreira sólida na área de Desenvolvimento de Software.</h5>
+<code>System.out.println("Welcome to my github!👩‍💻")</code>
+<hr>
 
-
-
-<h6>Estou sempre em busca de oportunidades para crescer e aprender!</h6>
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
-</div>
-
-  ##
-
-<p>👩‍💻 Tenho conhecimento em:</p>
+<p>🎓 Técnico em Informática para Internet <a href="https://portal.ifpe.edu.br/jaboatao/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">IFPE</a></p>
+<p> 📊 <a href="https://www.netacad.com/certificates?issuanceId=d58aebe4-d9c7-4001-8674-30cc318ffada">1x Cisco Networking Academy Certified</a></p>
+<hr>
 
 <p>
   <a href="https://skillicons.dev" target="_blank">
@@ -19,11 +13,9 @@
   </a>
 </p>
 
-  ##
-  <h5>Contatos:⤵️</h5>
+  <h5>Contatos:</h5>
   <div>
       <a href="https://www.linkedin.com/in/stefany-rodrigues-90301b2b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
   </div>
 
   
