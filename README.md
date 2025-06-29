@@ -7,9 +7,14 @@
 <p> 📊 <a href="https://www.netacad.com/certificates?issuanceId=d58aebe4-d9c7-4001-8674-30cc318ffada">1x Cisco Networking Academy Certified</a></p>
 <hr>
 
+
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+  </div>
+
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,nodejs,react" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,nodejs,SQL" alt="My Skills">
   </a>
 </p>
 
