@@ -1,20 +1,56 @@
-<h1>Olá! sou Stefany Rodrigues</h1>
+## 💜 Olá, meu nome é Stefany Rodrigues!
 
-<code>System.out.println("Welcome to my github!👩‍💻")</code>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200" align="right"/>
+  </div>
+
+Iniciei minha trajetória em TI no curso técnico de Informática para Internet pelo IFPE, onde adquiri conhecimentos em programação, redes e desenvolvimento web. Atualmente, atuo na NAGEM com banco de dados SQL, aplicando na prática o que aprendi e aprofundando minha experiência no setor. Estou sempre em busca de novos desafios para evoluir profissionalmente e contribuir com soluções eficientes.
+
+ <h1>Projetos Desenvolvidos</h1>
+ 
+📊 FundoPobreza
+Sistema de monitoramento automático de banco de dados, desenvolvido com Python e Tkinter, focado na detecção de erros (Exemplo:815) e envio de relatórios via e-mail.
+
+<h2> Funcionalidades:</h2>
+
+Consultas SQL automatizadas
+
+Relatórios em CSV enviados automaticamente por e-mail
+
+Interface gráfica com executável desktop
+
+Tecnologias: Python, Tkinter, pandas, SQL, pyodbc, CSV, .bat
+
+##
+
+🩺 eClinic+ 
+Aplicação de telemedicina que oferece agendamento online com integração a chatbot, garantindo uma experiência prática e eficiente ao usuário.
+
+<h2>Funcionalidades:</h2>
+
+Cadastro e login de usuários
+
+Agendamento e visualização de consultas
+
+Tecnologias: Spring Boot, PostgreSQL, Docker, React
+
+##
+
+📱 StudyTrack (em desenvolvimento)
+Aplicativo mobile voltado à organização e otimização dos estudos diários, com foco em estudantes que buscam produtividade e planejamento.
+Objetivo: Ajudar usuários a acompanhar metas, tarefas e progresso acadêmico de forma prática e intuitiva.
+
+Tecnologias (pretendidas): Kotlin e Java
+Projeto atual em fase de estruturação e desenvolvimento.
+
 <hr>
-
 <p>🎓 Técnico em Informática para Internet <a href="https://portal.ifpe.edu.br/jaboatao/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">IFPE</a></p>
 <p> 📊 <a href="https://www.netacad.com/certificates?issuanceId=d58aebe4-d9c7-4001-8674-30cc318ffada">1x Cisco Networking Academy Certified</a></p>
 <hr>
 
-
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
-  </div>
-
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,nodejs,SQL" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,java,spring,mysql,nodejs,SQL" alt="My Skills">
   </a>
 </p>
 
