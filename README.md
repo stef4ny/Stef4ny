@@ -31,7 +31,7 @@ Tecnologias: Python, Tkinter, pandas, SQL, pyodbc, CSV, .bat
 <img width="77" height="81" alt="image" src="https://github.com/user-attachments/assets/e9b2ef87-4435-4ade-8889-c7b7d934d83f" />
 
 
-Aplicação de telemedicina que oferece agendamento online com integração a chatbot, garantindo uma experiência prática e eficiente ao usuário.
+Aplicação de telemedicina que oferece agendamento online, garantindo uma experiência prática e eficiente ao usuário.
 
 <h2>Funcionalidades:</h2>
 
