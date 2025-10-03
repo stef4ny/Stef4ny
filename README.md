@@ -8,16 +8,14 @@ Iniciei minha trajetória em TI no curso técnico de Informática para Internet 
 
  <h1>Projetos Destaques</h1>
  
-<img width="77" height="81" alt="image" src="https://github.com/user-attachments/assets/a60ee4e1-533d-4b2a-a6dd-c6cc3aef1132" />
 
 🗂 FundoPobreza – Monitoramento automático de banco de dados com relatórios enviados por e-mail.
 Stack: Python, Tkinter, Pandas, SQL
-<img width="77" height="81" alt="image" src="https://github.com/user-attachments/assets/e9b2ef87-4435-4ade-8889-c7b7d934d83f" />
+
 
 🏥 eClinic+ – Plataforma de telemedicina com agendamento online.
 Stack: Spring Boot, PostgreSQL, React, Docker
 
-<img width="77" height="81" alt="image" src="https://github.com/user-attachments/assets/bb0cd9fb-3ddd-4396-9fd8-9d5aa08dd864" />
 
 📚 StudyTrack (em desenvolvimento) – Aplicativo para organização de estudos e produtividade.
 Stack: Kotlin, Java
