@@ -6,20 +6,6 @@
 
 Iniciei minha trajetória em TI no curso técnico de Informática para Internet pelo IFPE, onde adquiri conhecimentos em programação, redes e desenvolvimento web. Atualmente, atuo na NAGEM com banco de dados SQL, aplicando na prática o que aprendi e aprofundando minha experiência no setor. Estou sempre em busca de novos desafios para evoluir profissionalmente e contribuir com soluções eficientes.
 
- <h1>Projetos Destaques</h1>
- 
-
-🗂 FundoPobreza – Monitoramento automático de banco de dados com relatórios enviados por e-mail.
-Stack: Python, Tkinter, Pandas, SQL
-
-
-🏥 eClinic+ – Plataforma de telemedicina com agendamento online.
-Stack: Spring Boot, PostgreSQL, React, Docker
-
-
-📚 StudyTrack (em desenvolvimento) – Aplicativo para organização de estudos e produtividade.
-Stack: Kotlin, Java
-
 <hr>
 🎓 Formação & Certificações
 
