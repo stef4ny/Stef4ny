@@ -20,5 +20,10 @@ Técnico em Informática para Internet – IFPE
 </p>
 
   <h5>Contatos:</h5>
- <p> 💼 <a href="https://www.linkedin.com/in/stefany-rodrigues-90301b2b8/" target="_blank">LinkedIn</p>
+ <!--<p> 💼 <a href="https://www.linkedin.com/in/stefany-rodrigues-90301b2b8/" target="_blank">LinkedIn</p>-->
+
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=stef4ny" alt="stef4ny's Profile Views" />-->
+
+ [![Gmail Badge](https://img.shields.io/badge/-rodriguestefany98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguestefany98@gmail.com)](mailto:rodriguestefany98@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-StefanyRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefany-rodrigues-90301b2b8/")](https://www.linkedin.com/in/stefany-rodrigues-90301b2b8/") 
 
