@@ -15,7 +15,7 @@ Técnico em Informática para Internet – IFPE
 
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,java,spring,mysql,nodejs,SQL" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,java,spring,mysql,SQL" alt="My Skills">
   </a>
 </p>
 
