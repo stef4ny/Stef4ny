@@ -4,7 +4,11 @@
     <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200" align="right"/>
   </div>
 
-Iniciei minha trajetória em TI no curso técnico de Informática para Internet pelo IFPE, onde adquiri conhecimentos em programação, redes e desenvolvimento web. Atualmente, atuo na NAGEM com banco de dados SQL, aplicando na prática o que aprendi e aprofundando minha experiência no setor. Estou sempre em busca de novos desafios para evoluir profissionalmente e contribuir com soluções eficientes.
+Iniciei minha trajetória na área de Tecnologia da Informação por meio do curso técnico em Informática para Internet no Instituto Federal de Pernambuco (IFPE), onde desenvolvi conhecimentos em programação, redes, banco de dados e desenvolvimento web.
+
+Ao longo dessa jornada, tive a oportunidade de atuar na NAGEM, adquirindo experiência prática com bancos de dados SQL e aprofundando meus conhecimentos no setor de tecnologia. Atualmente, inicio uma nova etapa acadêmica como estudante de Engenharia de Materiais na Universidade Federal Rural de Pernambuco (UFRPE).
+
+Busco integrar tecnologia, inovação e engenharia em minha formação profissional, mantendo-me aberta a novos desafios, aprendizados e oportunidades de contribuir com soluções eficientes e relevantes.
 
 <hr>
 🎓 Formação & Certificações
